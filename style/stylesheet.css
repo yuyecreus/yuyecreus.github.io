@@ -1,0 +1,33 @@
+.column{
+	padding: 4rem;
+}
+
+.life-title{
+	font-size: 20px; 
+}
+
+.container{
+	padding-top: 2rem;
+}
+
+
+.card-about-me{
+	height: 250px;
+}
+
+.card-info{
+	height:800px;
+}
+
+.project-list{
+	padding-top: 2rem;
+	padding-bottom: 1rem;
+}
+
+.is-horizontal-center {
+  justify-content: center;
+}
+
+.rounded-face{
+	padding-top: 2rem;
+}
